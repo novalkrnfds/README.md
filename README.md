@@ -1,5 +1,4 @@
 <h2> Hey there! I'm Nouval. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 <!--
 **novalkrnfds/novalkrnfds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -43,10 +42,6 @@ I am a humble person, experienced on full-time position as a Front end Developer
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=novalkrnfds&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord" alt="novalkrnfds's Github Stats">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novalkrnfds&layout=compact&theme=nord)](https://github.com/devSouvik/github-readme-stats)
-
-<h4 align="center">Visitor's count :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
 [git]: https://github.com/novalkrnfds
 [twitter]: https://twitter.com/novalkrnfds

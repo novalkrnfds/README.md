@@ -1,15 +1,14 @@
-### Hi there, I'm Nouval K. Firdaus - aka Nouval 👋
-
+<h2> Hey there! I'm Nouval. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 <!--
 **novalkrnfds/novalkrnfds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-## I'm Developer and Cats Lover!
-- 🔭 I’m currently working at [Orami][orami] as Sr. Front-End Developer
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with Open Source projects creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- 💬 Ask me about anything you want to ask
+I am a humble person, experienced on full-time position as a Front end Developer, that loves to develop perfect solutions with clean code and newest technologies.
+- 🔭 &nbsp;I’m currently working at [Orami][orami] as Sr. Front-End Developer
+- 🌱 &nbsp;I’m currently learning everything 🤣
+- 👯 &nbsp;I’m looking to collaborate with Open Source projects creators
+- 🥅 &nbsp;2020 Goals: Contribute more to Open Source projects
+- 💬 &nbsp;Ask me about anything you want to ask
 
 ### Connect with me:
 
@@ -19,7 +18,7 @@
 
 <br />
 
-### Languages and Tools:
+### My Tech Stack:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][git]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][git]
@@ -41,7 +40,13 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=novalkrnfds&show_icons=true&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=novalkrnfds&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord" alt="novalkrnfds's Github Stats">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novalkrnfds&layout=compact&theme=nord)](https://github.com/devSouvik/github-readme-stats)
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
 [git]: https://github.com/novalkrnfds
 [twitter]: https://twitter.com/novalkrnfds
